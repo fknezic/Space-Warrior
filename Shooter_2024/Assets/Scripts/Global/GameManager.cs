@@ -10,7 +10,7 @@ using UnityEngine.UI;
 
 public enum GameStages
 {
-    STAGE_INIT = -1,
+    STAGE_MENU = -1,
     STAGE_1,
     STAGE_2,
     STAGE_3,
