@@ -5,7 +5,7 @@
 
 public class Obstacle : InteractiveBody
 {
-
+    //this comment is on the same line - uh oh
     private Movement movement;
 
     protected override void Awake()
