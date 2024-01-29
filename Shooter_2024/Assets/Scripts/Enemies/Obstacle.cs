@@ -5,7 +5,7 @@
 
 public class Obstacle : InteractiveBody
 {
-
+    //movement variable
     private Movement movement;
 
     protected override void Awake()
